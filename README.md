@@ -1,7 +1,7 @@
 # Thesis-Repository
 This repository contains the code used for the REIT4841 2023 thesis project
 
-# Desciption
+# Description
 ## Farmbot MobileNetV3 models
 Nine Jupyter Source Files are included in the repository used to construct the MobileNetV3 models:
 -  Thesis_Project_Farmbot_Mobile_Large
